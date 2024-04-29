@@ -1,4 +1,4 @@
-  Word Count Program Using Map And Reduce
+ EX 6 A: Word Count Program Using Map And Reduce
 
 
 
@@ -190,6 +190,7 @@ Review Questions:
 
 4 What is HBase, Pig, Zooeeper and Hive?
 	HBase - Is a NoSQL database on top of HDFS (hadoop distributed file system which is the file system and core component of Hadoop). Hive - Is an ecosystem/component of Hadoop which is similar to SQL to handle mostly structured data. Pig - Is an ecosystem/component of Hadoop which is a kind of scripting language
+
 
 
 
